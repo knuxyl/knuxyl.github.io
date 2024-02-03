@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>knuxyl.github.io</title>
-    <link>http://localhost:1313/</link>
+    <link>https://knuxyl.github.io/</link>
     <description>Recent content on knuxyl.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Feb 2024 11:21:39 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://knuxyl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dragonframes</title>
-      <link>http://localhost:1313/technology/dragonframes/</link>
+      <link>https://knuxyl.github.io/technology/dragonframes/</link>
       <pubDate>Sat, 03 Feb 2024 11:21:39 -0600</pubDate>
-      <guid>http://localhost:1313/technology/dragonframes/</guid>
+      <guid>https://knuxyl.github.io/technology/dragonframes/</guid>
       <description>https://github.com/knuxyl/dragonframes A while back I made an addon for World of Warcraft 3.3.5a called DragonFrames. It changes the portrait art around the player and/or enemy icon in the top left to whatever they want.
 I extracted the original assets from newer World of Warcraft clients and the original, converted them from blp to png, and ran them through an AI upscaler
 realcugan-ncnn-vulkan -s 4 -n 3 -i &amp;#34;input.png&amp;#34; -o &amp;#34;output.png&amp;#34; I included the option for the player to have the art dynamically change depending on the level.</description>
     </item>
     <item>
       <title>T86PND (Portable Android Auto Head Unit)</title>
-      <link>http://localhost:1313/technology/t86pnd/</link>
+      <link>https://knuxyl.github.io/technology/t86pnd/</link>
       <pubDate>Sat, 03 Feb 2024 09:10:26 -0600</pubDate>
-      <guid>http://localhost:1313/technology/t86pnd/</guid>
+      <guid>https://knuxyl.github.io/technology/t86pnd/</guid>
       <description>I recently got a portable android auto head unit to use in my car. It is a T86PND, seems to have been made in late 2023. The unit does not work on my phone or tablet with Android Auto, it connects the blueooth and wifi and the phone says continue on your head unit but the head unit does nothing. So I decided to look at the hardware and software. There is no information about this unit available online, and their manual says Chip - High performance SOC.</description>
     </item>
     <item>
       <title>Some Ideas</title>
-      <link>http://localhost:1313/ideas/truth/</link>
+      <link>https://knuxyl.github.io/ideas/truth/</link>
       <pubDate>Fri, 02 Feb 2024 12:27:19 -0600</pubDate>
-      <guid>http://localhost:1313/ideas/truth/</guid>
+      <guid>https://knuxyl.github.io/ideas/truth/</guid>
       <description>The truth can never be reflected by a copy, nor can it include time, and is only available within the limits of your awareness of the now.
 I need to work on the explanation of how free will is an illusion, but trying to find the right words while talking to a non-critical thinker to let them see the truth has proven to be a seemingly endless battle. this idea is paramount to existence, if society had this in it&amp;rsquo;s foundation we would not focus on punishment rather than prevention.</description>
     </item>
     <item>
       <title>WIP New Bill of Rights</title>
-      <link>http://localhost:1313/ideas/laws/</link>
+      <link>https://knuxyl.github.io/ideas/laws/</link>
       <pubDate>Fri, 02 Feb 2024 11:47:03 -0600</pubDate>
-      <guid>http://localhost:1313/ideas/laws/</guid>
+      <guid>https://knuxyl.github.io/ideas/laws/</guid>
       <description>After hearing all the fear mongering and lawlessness of the government over banning firearms and the covid-19 mess, I decided to read the bill of rights to see why this lunacy can happen. It became clear very quickly that the founding fathers did not put nearly enough effort into expressing their ideas nor did they have any form of foresight present in any of the legislation. This contributes to a lot of serious problems, especially the 2nd amendment.</description>
     </item>
   </channel>
