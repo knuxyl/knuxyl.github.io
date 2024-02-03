@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>https://knuxyl.github.io/first-page/</loc>
-    <lastmod>2024-02-02T00:16:30-06:00</lastmod>
-  </url>
-  <url>
+    <loc>https://knuxyl.github.io/ideas/idea-1/</loc>
+    <lastmod>2024-02-02T12:27:19-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/ideas/</loc>
+    <lastmod>2024-02-02T12:27:19-06:00</lastmod>
+  </url><url>
     <loc>https://knuxyl.github.io/</loc>
+    <lastmod>2024-02-02T12:27:19-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/</loc>
+    <lastmod>2024-02-02T12:13:47-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-10/</loc>
+    <lastmod>2024-02-02T12:13:47-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-9/</loc>
+    <lastmod>2024-02-02T12:07:44-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-8/</loc>
+    <lastmod>2024-02-02T12:04:21-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-7/</loc>
+    <lastmod>2024-02-02T12:03:54-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-6/</loc>
+    <lastmod>2024-02-02T12:02:44-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-5/</loc>
+    <lastmod>2024-02-02T11:57:13-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-4/</loc>
+    <lastmod>2024-02-02T11:55:18-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-3/</loc>
+    <lastmod>2024-02-02T11:54:28-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/rule-2/</loc>
+    <lastmod>2024-02-02T11:51:45-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/laws/laws/</loc>
+    <lastmod>2024-02-02T11:47:03-06:00</lastmod>
+  </url><url>
+    <loc>https://knuxyl.github.io/categories/</loc>
+  </url><url>
+    <loc>https://knuxyl.github.io/search/</loc>
+  </url><url>
+    <loc>https://knuxyl.github.io/tags/</loc>
   </url>
 </urlset>
